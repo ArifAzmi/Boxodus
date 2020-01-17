@@ -3,7 +3,7 @@ A platformer game created using ActionScript 3.0 and Adobe Flash.
 
 ### Setup
 
-To play this on your browser, click [here](bit.ly/boxodus) (you will need to enable Flash).
+To play this on your browser, click [here](https://boxodus.wixsite.com/boxodusgame) (you will need to enable Flash).
 
 If you wish to play the game from your local PC do the following:
 
